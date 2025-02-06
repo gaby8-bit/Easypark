@@ -1,0 +1,14 @@
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\bin\Debug\Timpark+.exe.config
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\bin\Debug\Timpark+.exe
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\bin\Debug\Timpark+.pdb
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark+.csproj.AssemblyReference.cache
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark+.csproj.SuggestedBindingRedirects.cache
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark_.Form1.resources
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark_.Properties.Resources.resources
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark+.csproj.GenerateResource.cache
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark+.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark+.exe
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark+.pdb
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark_.Form2.resources
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark_.Form3.resources
+C:\Users\OWNER\source\repos\Timpark+\Timpark+\obj\Debug\Timpark_.listbox.resources
